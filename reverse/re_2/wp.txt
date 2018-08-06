@@ -1,0 +1,10 @@
+获取输入之后循环异或后都加+1
+然后在比较和  syvtpznLx}vyyr{trL(j  想不想等
+
+写个小python吧(负责吧)
+
+a = "syvtpznLx}vyyr{trL(j"
+flag = ""
+for i in range(len(a)):
+    flag += chr((ord(a[i]) -1) ^ 0x14 )
+print flag 
