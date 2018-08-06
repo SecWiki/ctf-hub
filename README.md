@@ -28,7 +28,8 @@ The game of the rookie! -_-
 请勿用于非法用途，否则造成的严重后果与本项目无关。
 
 ## 参考链接 ##
- - [https://ctf-wiki.github.io/ctf-wiki/](https://ctf-wiki.github.io/ctf-wiki/)
+ - [https://ctf-wiki.github.io/ctf-wiki/](https://ctf-wiki.github.io/ctf-wiki/)  
+ - [https://www.sec-wiki.com/](https://www.sec-wiki.com/)
  
 ## 转载 ##
 转载请注明来自[https://github.com/SecWiki/ctf-hub/](https://github.com/SecWiki/ctf-hub/)
