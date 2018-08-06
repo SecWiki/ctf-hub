@@ -1,0 +1,8 @@
+16进制转字符串
+
+用python实现非常容易
+import binascii
+print binascii.a2b_hex("hex值")
+
+
+百度上也有在线的。
