@@ -27,13 +27,13 @@ This is the first time we have written a project, some of which are collected fr
 - sh1llc0de  
 [http://www.whj.website/](http://www.whj.website/)
 ## Disclaimer ##
-请勿用于非法用途，否则造成的严重后果与本项目无关。
+Do not use it for illegal purposes, otherwise the serious consequences will not be related to this project.。
 
 ## Reference link ##
  - [https://ctf-wiki.github.io/ctf-wiki/](https://ctf-wiki.github.io/ctf-wiki/)  
  - [https://www.sec-wiki.com/](https://www.sec-wiki.com/)
  
-## Reference link ##
-转载请注明来自[https://github.com/SecWiki/ctf-hub/](https://github.com/SecWiki/ctf-hub/)
+## Reprint ##
+Reprinted source：[https://github.com/SecWiki/ctf-hub/](https://github.com/SecWiki/ctf-hub/)
 
 ©WUJINLIN,sh1llc0de 2018
