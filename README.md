@@ -10,7 +10,8 @@ This is the first time we have written a project, some of which are collected fr
 - **Misc**
 
 - **Crypto**
-	 - Hex
+	 - hex
+	 - base
 
 - **Android**
 
