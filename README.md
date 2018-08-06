@@ -29,7 +29,7 @@ This is the first time we have written a project, some of which are collected fr
 ## Disclaimer ##
 请勿用于非法用途，否则造成的严重后果与本项目无关。
 
-## 参考链接 ##
+## Reference link ##
  - [https://ctf-wiki.github.io/ctf-wiki/](https://ctf-wiki.github.io/ctf-wiki/)  
  - [https://www.sec-wiki.com/](https://www.sec-wiki.com/)
  
