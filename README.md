@@ -10,6 +10,7 @@ The game of the rookie! -_-
 - **Misc**
 
 - **Crypto**
+	 - Hex_1
 
 - **Android**
 
