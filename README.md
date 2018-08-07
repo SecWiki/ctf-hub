@@ -1,5 +1,5 @@
 # CTF-HUB #
-## brief introduction ##
+## Brief introduction ##
 This is the first time we have written a project, some of which are collected from other CTF competitions. Still others are written by myself. Maybe these questions are not enough for the big guys, but doing things is to do well. The work is need near perfect.I hope to bring you happiness.  
 
 **CTF Topic list**
