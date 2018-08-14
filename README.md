@@ -29,14 +29,15 @@ This is the first time we have written a project, some of which are collected fr
 
 ## Configuration method ##
 ```bash
-# 需要python环境,先安装pip
-# 安装最新版docker
+# Need python environment, you also need to install pip
+
+# installation docker
 curl -s https://get.docker.com/ | sh
 
-# 启动docker服务
+# Start the docker service
 service docker start
 
-# 安装compose
+# Install compose
 pip install docker-compose 
 ```
 ## Project maintenance ##
