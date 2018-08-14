@@ -28,7 +28,17 @@ This is the first time we have written a project, some of which are collected fr
 - **Pwn**
 
 ## Configuration method ##
- - https://github.com/SecWiki/ctf-hub
+```bash
+# 需要python环境,先安装pip
+# 安装最新版docker
+curl -s https://get.docker.com/ | sh
+
+# 启动docker服务
+service docker start
+
+# 安装compose
+pip install docker-compose 
+```
 ## Project maintenance ##
 - WUJINLIN  
 [http://www.whj.website/](http://www.whj.website/)
