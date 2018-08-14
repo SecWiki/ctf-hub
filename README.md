@@ -41,7 +41,22 @@ service docker start
 pip install docker-compose 
 
 # Other operating system installations of docker and docker-compose may be slightly different, please read the Docker documentation for installation.
+
+# Pull project
+git clone https://github.com/SecWiki/ctf-hub/ctf-hub.git
+cd ctf-hub
+
+# Enter the environment directory of a vulnerability
+cd web/web1
+
+# Automated compilation
+docker-compose build
+
+# Start the entire environment
+docker-compose up -d
 ```
+ - There is a corresponding documentation in each environment directory, please read this file for vulnerability/environment testing.
+
 ## Project maintenance ##
 - WUJINLIN  
 [http://www.whj.website/](http://www.whj.website/)
