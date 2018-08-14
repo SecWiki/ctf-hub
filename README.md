@@ -39,6 +39,8 @@ service docker start
 
 # Install compose
 pip install docker-compose 
+
+# Other operating system installations of docker and docker-compose may be slightly different, please read the Docker documentation for installation.
 ```
 ## Project maintenance ##
 - WUJINLIN  
