@@ -28,7 +28,7 @@ This is the first time we have written a project, some of which are collected fr
 - **Pwn**
 
 ## Configuration method ##
-
+ - https://github.com/SecWiki/ctf-hub
 ## Project maintenance ##
 - WUJINLIN  
 [http://www.whj.website/](http://www.whj.website/)
