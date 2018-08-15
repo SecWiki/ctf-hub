@@ -19,13 +19,43 @@ This is the first time we have written a project, some of which are collected fr
 	 - base
 
 - **Android**
-
+	 - And_1
 - **Reverse**
 	- re_1
 	- re_2
 	- re_3
-
+	- re_4
 - **Pwn**
+
+## Configuration method ##
+```bash
+# Need python environment, you also need to install pip
+
+# installation docker
+curl -s https://get.docker.com/ | sh
+
+# Start the docker service
+service docker start
+
+# Install compose
+pip install docker-compose 
+
+# Other operating system installations of docker and docker-compose may be slightly different, please read the Docker documentation for installation.
+
+# Pull project
+git clone https://github.com/SecWiki/ctf-hub/ctf-hub.git
+cd ctf-hub
+
+# Enter the environment directory of a vulnerability
+cd web/web1
+
+# Automated compilation
+docker-compose build
+
+# Start the entire environment
+docker-compose up -d
+```
+ - There is a corresponding documentation in each environment directory, please read this file for vulnerability/environment testing.
 
 ## Project maintenance ##
 - WUJINLIN  
