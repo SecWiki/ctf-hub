@@ -22,6 +22,9 @@ This is the first time we have written a project, some of which are collected fr
 	- Misc_7
 	- Misc_8
 	- Misc_9
+	- Misc_10
+	- Misc_11
+	- Misc_12
 - **Crypto**
 	 - hex
 	 - base
