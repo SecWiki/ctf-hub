@@ -77,5 +77,3 @@ Do not use it for illegal purposes, otherwise the serious consequences will not 
  
 ## Reprint ##
 Reprinted source：[https://github.com/SecWiki/ctf-hub/](https://github.com/SecWiki/ctf-hub/)
-
-©WUJINLIN,sh1llc0de 2018
