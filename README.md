@@ -68,11 +68,6 @@ docker-compose up -d
 ```
  - There is a corresponding documentation in each environment directory, please read this file for vulnerability/environment testing.
 
-## Project maintenance ##
-- WUJINLIN  
-[http://www.whj.website/](http://www.whj.website/)
-- sh1llc0de  
-[https://www.sh1llc0de.xyz/](https://www.sh1llc0de.xyz/)
 ## Disclaimer ##
 Do not use it for illegal purposes, otherwise the serious consequences will not be related to this project.。
 
